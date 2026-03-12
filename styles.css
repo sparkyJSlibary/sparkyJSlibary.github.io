@@ -1,0 +1,11 @@
+#header {
+  background-color: #8433aa;
+  color: white;
+  font-family: Verdana;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  margin-left: 10px;
+  margin-right: 10px;
+  z-index: 999999999999;
+}
