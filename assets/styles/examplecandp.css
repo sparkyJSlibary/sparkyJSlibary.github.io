@@ -9,5 +9,11 @@
   color: white;
   font-family: Courier New;
 }
+#copyButton {
+  position: absolute;
+  color: white;
+  top: 5px;
+  right: 5px;
+}
 
 /*<div style="background-color: white; position: absolute; top: 100px; width: 100%; height: 70%">*/
