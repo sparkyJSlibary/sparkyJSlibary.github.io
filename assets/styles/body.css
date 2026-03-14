@@ -1,4 +1,6 @@
 #main {
+  position: absolute;
+  top: 10px;
   font-family: Verdana;
   color: white;
 }
