@@ -1,0 +1,13 @@
+#example {
+  position: absolute;
+  top: 100px;
+  width: 100%;
+  height: 70%
+}
+#exampleScript {
+  background-color: black;
+  color: white;
+  font-family: Courier New;
+}
+
+/*<div style="background-color: white; position: absolute; top: 100px; width: 100%; height: 70%">*/
