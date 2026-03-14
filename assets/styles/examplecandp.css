@@ -8,6 +8,8 @@
   background-color: black;
   color: white;
   font-family: Courier New;
+  width: 50%;
+  height: 50%;
 }
 #copyButton {
   position: absolute;
